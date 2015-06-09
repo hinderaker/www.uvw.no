@@ -3,9 +3,9 @@ permalink:              /:title
 relative_permalinks:    true
 
 # Setup
-title:                  'UVW.no'
+title:                  'kritikkverdig.no'
 tagline:                'Delte meninger'
-url:                    http://www.uvw.no
+url:                    http://kritikkverdig.no
 paginate:               1
 paginate_path:          'side:num'
 baseurl:                ''
